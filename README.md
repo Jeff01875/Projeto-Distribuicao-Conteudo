@@ -5,6 +5,10 @@ Esse repositório documenta a criação de um distribuidor de conteúdo utlizand
 - Utilização do Auto Scaling Group para que essa distribuição tenha Elasticidade, alta disponibilidade para que os usuarios tenham uma melhor experiência na usabilidade.
 - Criei um Apliccation Load Balancer aonde ele será utilizado para distribuição de tráfego entre as instâncias que são criadas pelo ASG
 - CloudFront, utilizado para melhorar a velocidade de entrega do conteúdo atráves do cache que pode ser habilitado
+  
+### Arquitetura do projeto 
+![Diagrama.png](https://github.com/Jeff01875/Projeto-Distribuicao-Conteudo/blob/main/Diagrama.png)
+
 
 #Passo a passo da implementação 
 
