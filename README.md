@@ -1,5 +1,5 @@
 # Projeto Distribuicao de Conteudo 
-Esse repositório documenta a criação de um distribuidor de conteúdo utlizando de **ASG**, **ALB**, **CloudFront** e outros recursos da aws
+Esse repositório documenta a criação de um distribuidor de conteúdo utlizando  **ASG**, **ALB**, **CloudFront** e outros recursos da aws.
 
 #Descrição do projeto
 - Utilização do Auto Scaling Group para que essa distribuição tenha Elasticidade, alta disponibilidade para que os usuarios tenham uma melhor experiência na usabilidade.
