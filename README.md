@@ -33,6 +33,19 @@ Esse repositório documenta a criação de um distribuidor de conteúdo utlizand
 
 ![Criação do CloudFront_ETAPA-9.png](https://github.com/Jeff01875/Projeto-Distribuicao-Conteudo/blob/a9e4ec4405fd50e54262c13525cdacd22a9bb44d/Cria%C3%A7%C3%A3o%20do%20CloudFront_ETAPA-9.png)
 
+### 4. testando o acesso ao conteúdo 
+
+- Após criar o CloudFront e concluir sua criação, é liberado uma URL para ter acesso ao ALB e ser direcionado ao Auto Scaling Group
+  
+![Test de acesso 1_ETAPA-10.png](https://github.com/Jeff01875/Projeto-Distribuicao-Conteudo/blob/main/Test%20de%20acesso%201_ETAPA-10.png)
+- O primeiro teste foi executado com exito. Direcionou o tráfego a Instância que se encontra na US-EAST-1a.
+  
+- Teste 2
+  
+![Test de acesso 2_ETAPA-11.png](https://github.com/Jeff01875/Projeto-Distribuicao-Conteudo/blob/main/Test%20de%20acesso%202_ETAPA-11.png)
+- O segundo também teve exito, levando o tráfego para instância que se encontrava na US-EAST-1b.
+
+
 ### Benefícios da solução
 
 - Alta Disponibilidade e elasticidade do conteúdo
