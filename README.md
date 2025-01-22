@@ -1,7 +1,7 @@
 # Projeto Distribuicao de Conteudo 
 Esse repositório documenta a criação de um distribuidor de conteúdo utlizando  **ASG**, **ALB**, **CloudFront** e outros recursos da aws.
 
-#Descrição do projeto
+# Descrição do projeto
 - Utilização do Auto Scaling Group para que essa distribuição tenha Elasticidade, alta disponibilidade para que os usuarios tenham uma melhor experiência na usabilidade.
 - Criei um Apliccation Load Balancer aonde ele será utilizado para distribuição de tráfego entre as instâncias que são criadas pelo ASG
 - CloudFront, utilizado para melhorar a velocidade de entrega do conteúdo atráves do cache que pode ser habilitado
@@ -10,7 +10,7 @@ Esse repositório documenta a criação de um distribuidor de conteúdo utlizand
 ![Diagrama.png](https://github.com/Jeff01875/Projeto-Distribuicao-Conteudo/blob/main/Diagrama.png)
 
 
-#Passo a passo da implementação 
+# Passo a passo da criação
 
 ### 1. Criação do ASG
 
