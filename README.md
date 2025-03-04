@@ -7,7 +7,7 @@ Esse repositório documenta a criação de um distribuidor de conteúdo utlizand
 - CloudFront, utilizado para melhorar a velocidade de entrega do conteúdo atráves do cache que pode ser habilitado
   
 ### Arquitetura do projeto 
-![Diagrama.png](https://github.com/Jeff01875/Projeto-Distribuicao-Conteudo/blob/main/Diagrama.png)
+![Diagrama_Distribuição_Conteúdo.png](https://github.com/Jeff01875/Projeto-Distribuicao-Conteudo/blob/main/Diagrama_Distribui%C3%A7%C3%A3o_Conte%C3%BAdo.png)
 
 
 # Passo a passo da criação
